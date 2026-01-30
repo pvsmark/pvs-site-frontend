@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-client-profile',
   imports: [],
   templateUrl: './client-profile.html',
-  styleUrl: './client-profile.css',
+  styleUrl: './client-profile.scss',
 })
 export class ClientProfile {
 

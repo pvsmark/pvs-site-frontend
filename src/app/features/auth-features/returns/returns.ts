@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-returns',
   imports: [],
   templateUrl: './returns.html',
-  styleUrl: './returns.css',
+  styleUrl: './returns.scss',
 })
 export class Returns {
 

@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-create-cuztomizable-report',
   imports: [],
   templateUrl: './create-cuztomizable-report.html',
-  styleUrl: './create-cuztomizable-report.css',
+  styleUrl: './create-cuztomizable-report.scss',
 })
 export class CreateCuztomizableReport {
 

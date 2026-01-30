@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-generate-ai-summary',
   imports: [],
   templateUrl: './generate-ai-summary.html',
-  styleUrl: './generate-ai-summary.css',
+  styleUrl: './generate-ai-summary.scss',
 })
 export class GenerateAiSummary {
 

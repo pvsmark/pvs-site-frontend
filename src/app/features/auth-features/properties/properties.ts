@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-properties',
   imports: [],
   templateUrl: './properties.html',
-  styleUrl: './properties.css',
+  styleUrl: './properties.scss',
 })
 export class Properties {
 

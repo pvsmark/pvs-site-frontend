@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-parcels',
   imports: [],
   templateUrl: './parcels.html',
-  styleUrl: './parcels.css',
+  styleUrl: './parcels.scss',
 })
 export class Parcels {
 

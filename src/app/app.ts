@@ -6,7 +6,7 @@ import { PRIMENG_IMPORTS } from './shared/primeng.imports';
   selector: 'app-root',
   imports: [RouterOutlet, PRIMENG_IMPORTS],
   templateUrl: './app.html',
-  styleUrl: './app.css',
+  styleUrl: './app.scss',
 })
 export class App {
   protected readonly title = signal('pvs-frontend');

@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-tax-bills',
   imports: [],
   templateUrl: './tax-bills.html',
-  styleUrl: './tax-bills.css',
+  styleUrl: './tax-bills.scss',
 })
 export class TaxBills {
 

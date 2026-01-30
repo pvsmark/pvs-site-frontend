@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-export',
   imports: [],
   templateUrl: './export.html',
-  styleUrl: './export.css',
+  styleUrl: './export.scss',
 })
 export class Export {
 
